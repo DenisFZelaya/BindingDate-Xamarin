@@ -1,0 +1,8 @@
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\optimized\
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\BindingDate.iOS.csprojAssemblyReference.cache
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate.iOS\obj\iPhone\Debug\BindingDate.iOS.csproj.CoreCompileInputs.cache

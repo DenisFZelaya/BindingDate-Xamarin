@@ -1,0 +1,13 @@
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\BindingDate.AssemblyInfoInputs.cache
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\BindingDate.AssemblyInfo.cs
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\BindingDate.csproj.CoreCompileInputs.cache
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\BindingDate.dll
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\ref\BindingDate.dll
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\BindingDate.pdb
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\bin\Debug\netstandard2.0\BindingDate.deps.json
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\bin\Debug\netstandard2.0\BindingDate.dll
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\bin\Debug\netstandard2.0\ref\BindingDate.dll
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\bin\Debug\netstandard2.0\BindingDate.pdb
+C:\Users\dzelaya\source\repos\BindingDate\BindingDate\BindingDate\obj\Debug\netstandard2.0\XamlC.stamp

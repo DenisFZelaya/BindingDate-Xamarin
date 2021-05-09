@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BindingDate.MainPage"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <StackLayout BindingContext="{x:Static sys:DateTime.Now}"
+                 HorizontalOptions="Center"
+                 VerticalOptions="CenterAndExpand">
+        <Label Text="{Binding Year, StringFormat='The year is {0}'}"/>
+        <Label Text="{Binding StringFormat='The Month is {0}'}"/>
+        <Label Text="{Binding Day, StringFormat='The day is {0}'}"/>
+        <Label Text="{Binding StringFormat='The time is {0:T}'}"/>
+    </StackLayout>
+
+</ContentPage>
